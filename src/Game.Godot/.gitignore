@@ -1,0 +1,6 @@
+# Godot 4+ specific ignores
+.godot/
+.vs/
+
+# VS Launch Settings are pc specific
+Properties/launchSettings.json
